@@ -63,11 +63,6 @@ nav ul li .active {
     margin-right: 25px;
 }
 
-* {
-    text-decoration: none;
-    font-family: "Poppinds", sans-serif;
-}
-
 form {
     width: 350px;
     margin: 50px auto;
